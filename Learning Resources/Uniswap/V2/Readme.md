@@ -6,11 +6,11 @@
 
 [A Deep Dive Into the Uniswap V2 Protocol](https://betterprogramming.pub/uniswap-v2-in-depth-98075c826254)
 
-[]()
+[Uniswap blog - V2 overview](https://blog.uniswap.org/uniswap-v2)
 
-[]()
+[Official Docs](https://docs.uniswap.org/contracts/v2/overview)
 
-[]()
+[V2 Whitepaper](https://uniswap.org/whitepaper.pdf)
 
 []()
 
