@@ -2,6 +2,8 @@
 
 [Story behind creation of Uniswap](https://blog.uniswap.org/uniswap-history#v0-%E2%80%94-uniswap-is-born)
 
+[A Short Story of UNISWAP and UNI Token - Youtube video ](https://www.youtube.com/watch?v=LpjMgS4OVzs)
+
 [Karl Floersch Introduces Uniswap at Devcon 3](https://www.youtube.com/watch?v=-alrVUv6E24)
 
 [Medium article - Uniswap: Understanding the Decentralised Ethereum Exchange](https://medium.com/block-journal/uniswap-understanding-the-decentralised-ethereum-exchange-5ee5d7878996)
