@@ -12,8 +12,8 @@
 
 [V2 Whitepaper](https://uniswap.org/whitepaper.pdf)
 
-[]()
+[Uniswap V2 Book](https://www.rareskills.io/uniswap-v2-book)
 
-[]()
+[Dissecting the PancakeSwap protocol](https://0xkowloon.substack.com/p/dissecting-the-pancakeswap-protocol)
 
-[]()
+[Uniswap casestudy](https://rdi.berkeley.edu/berkeley-defi/assets/material/Dan%20Robinson%20Lecture%20Slides.pdf)
