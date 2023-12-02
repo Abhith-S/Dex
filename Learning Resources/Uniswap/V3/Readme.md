@@ -1,7 +1,5 @@
 # Resources used to learn about Uniswap V3
 
-[Youtube Video - V3 explained](https://www.youtube.com/watch?v=Kt1lCTgAd3o)
-
 [Youtube Video - V3 explained - Youtube](https://youtu.be/ClWR1570UQw?si=uUzLG-It9FhSeYf4)
 
 [Youtube Video - V3 Architecture](https://youtu.be/Ehm-OYBmlPM?si=rXkxs8XsLBhxoNea)
