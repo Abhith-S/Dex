@@ -10,7 +10,7 @@
 
 [Offical - Blog Post](https://blog.uniswap.org/uniswap-v3)
 
-[Official - Docs](https://docs.uniswap.org/concepts/overview)
+[Official - Docs](https://docs.uniswap.org/contracts/v3/overview)
 
 [Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 
