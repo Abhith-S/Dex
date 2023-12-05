@@ -10,11 +10,11 @@
 
 [Offical - Blog Post](https://blog.uniswap.org/uniswap-v3)
 
-[Official - Docs](https://docs.uniswap.org/contracts/v3/overview)
-
 [Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 
 [Youtube Playlist - V1,V2 & V3 Economics Model Explained](https://www.youtube.com/playlist?list=PLWYK_jGKZtaDA4Dweol-JTGwOhCuTnZUz)
+
+[Official - Dev Docs](https://docs.uniswap.org/contracts/v3/overview)
 
 [Uniswap V3 development book](https://uniswapv3book.com/)
 
