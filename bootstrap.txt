@@ -146,8 +146,100 @@ modal
 fade - for fading in
 
 modal can be combined with button to like show on click
-eg)
 
+modal-dialog-centered - apprear at center of the page
 
+modal-dialog-scrollable - adds scroll fn
 
+----------------------------------
+
+COLOR
+
+bg-
+text-
+text-bg-dark - dark background and white text
+
+bg-opacity
+
+text-opacity
+
+link-dark - for anchor tag
+
+opacity-50 - for entire object
+
+-------------------------------
+
+STACK
+
+hstack - stacks componnents horizontally
+
+vstack - 
+
+gap - 
+
+-----------------------------------------
+
+BORDER 
+
+border-primary - for color
+
+border-5 - size
+
+rounded-2
+
+rounded-pill - like a pill
+
+rounded-circle
+
+rounded-top
+
+border-start
+
+-------------------------------------------
+
+DISPLAY
+
+d-
+    default is block
+    none
+    flex
+
+--------------------------------------------
+
+SPACING
+
+p-1 - padding
+
+pt
+
+ps - left
+
+pe - right
+
+m-5 - margin
+
+m-auto
+
+p-auto
+
+------------------------------------------
+
+FLEXBOX 
+
+d-flex 
+
+justify-content-center
+                start
+
+align-items-center
+
+flex-wrap
+
+flex-column
+
+align-self-center
+
+flex-grow-1
+
+flex-shrink
 
