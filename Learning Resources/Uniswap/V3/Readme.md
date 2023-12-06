@@ -14,9 +14,13 @@
 
 [Youtube Playlist - V1,V2 & V3 Economics Model Explained](https://www.youtube.com/playlist?list=PLWYK_jGKZtaDA4Dweol-JTGwOhCuTnZUz)
 
+<<<<<<< HEAD
 
 [Official - Docs](https://docs.uniswap.org/contracts/v3/overview)
 
+=======
+[Official - Dev Docs](https://docs.uniswap.org/contracts/v3/overview)
+>>>>>>> f52d99112f7d97bc25bf5506b36e4cba70d512a9
 
 [Uniswap V3 development book](https://uniswapv3book.com/)
 
