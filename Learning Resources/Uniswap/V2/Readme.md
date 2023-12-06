@@ -17,3 +17,12 @@
 [Book - Uniswap V2 Book](https://www.rareskills.io/uniswap-v2-book)
 
 [Youtube Playlist - V2 Development](https://www.youtube.com/playlist?list=PLXiAtWDhSlItE-LG9ou_w5-4Ajp0ETwQ1)
+
+
+[Programming DeFi: Uniswap V2. Part 1](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)
+
+[Programming DeFi: Uniswap V2. Part 2](https://jeiwan.net/posts/programming-defi-uniswapv2-2/)
+
+[Programming DeFi: Uniswap V2. Part 3](https://jeiwan.net/posts/programming-defi-uniswapv2-3/)
+
+[Programming DeFi: Uniswap V2. Part 4](https://jeiwan.net/posts/programming-defi-uniswapv2-4/)

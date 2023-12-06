@@ -27,4 +27,8 @@
 [Medium Article - Uniswap returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
 
 
+[Programming DeFi: Uniswap. Part 1](https://jeiwan.net/posts/programming-defi-uniswap-1/)
 
+[Programming DeFi: Uniswap. Part 2](https://jeiwan.net/posts/programming-defi-uniswap-2/)
+
+[Programming DeFi: Uniswap. Part 3](https://jeiwan.net/posts/programming-defi-uniswap-3/)
