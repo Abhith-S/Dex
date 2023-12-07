@@ -1,4 +1,4 @@
-# Resources used to learn about Cosmos
+# Resources used to learn about Cosmos and Cosmos SDK
 
 [Cosmos Network Intro Video](https://vimeo.com/183530279)
 
