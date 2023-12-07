@@ -1,0 +1,245 @@
+Classes :
+
+container - like a div but responsive and with bit of padding.
+
+row - usually inside container.Has 12 column sizes.
+Uses flexbox
+
+col - will be like a column , inside rows.
+
+box - usually inside columns
+
+container
+    row 
+        col
+            box
+
+
+COL
+
+col-2 - column division in a single row can be done with col-2 , the above column will take 2/12 column space. 
+
+col-auto - fit to size of content inside
+
+col-lg-4 - only be 4/12 size in large screen and up.
+
+col-lg-4 col-8 - only be 4/12 size in large screen and up. and 8/12 for others
+
+if u don't hardcode a size in col, it'll take all 100%, even when working with combinations of breakpoints
+
+col-3 offset-3 - will take 3/12 size and shifts to a space of 3/12 from the median postion
+
+ROW
+
+row row-cols-2 - the row should have 2 columns only
+
+row row-cols-2 row-cols-lg-4 - the row should have 2 columns only under normal case and if for large screens and up make it 4 columns
+
+row row-cols-2 gy-1 - give a gap of 1 
+gaps are 1 to 5
+
+---You can nest rows inside rows and columns
+
+---If you have a row all the content should be inside a col
+
+------------------------------------------
+
+TABLE
+
+table - for use inside <table> tag
+
+table-primary - primary color table, there is also others like secondary,danger , etc
+
+table table-striped - striped table rows
+
+table table-hover - hover over row
+
+table-bordered - give bordered
+
+table-sm - smaller size
+
+table-responsive - will have scroller
+
+<table>
+<thead>
+<tbody>
+<tr>
+
+table-group-divider - only for thead, to divider for header and body
+
+--------------------------------------------
+
+FORMS
+
+<form>
+<lable>
+<input>
+<button>
+
+form-label - for form label
+
+form-control - for input, has also sizes
+
+INPUT
+
+input-group -  use in divs, for creating input groups like multiple input spaces and all
+
+input-group-text - will give like a small text just beside the input box
+
+form-floating - use with div
+gives a floating placeholder that moves up on click, here input should be above label
+
+----------------------------------------------------------------
+
+BUTTONS
+
+btn btn-primary - can be used on button and anchor tag
+
+btn-link - make a button look like a link
+
+data-bs-toggle="button" - this will make the button toggleable like change active state
+
+btn-group - to group several buttons together
+
+ALERT
+
+alert - use with div or somethiung
+
+alert-success - will give a success kind of alert
+
+fade - gives fade out
+
+------------------------------------------------------
+
+CARD
+
+card - use in div, its like the outer side
+
+card-body - use inside the div coming inside "card" Classes
+
+card
+    card-header
+    card-body
+        
+        card-title
+        card-subtitle
+        card-text
+    card-footer
+
+card-img-top - for img tag.
+
+card-image-overlay - gives an overlay image ie background image for card
+
+card-group - group cards side by side
+
+--------------------------------------------------------
+
+MODAL
+
+modal  
+    modal-dialog
+        modal-contnent
+            modal-header
+            modal-body
+            modal-footer
+
+fade - for fading in
+
+modal can be combined with button to like show on click
+
+modal-dialog-centered - apprear at center of the page
+
+modal-dialog-scrollable - adds scroll fn
+
+----------------------------------
+
+COLOR
+
+bg-
+text-
+text-bg-dark - dark background and white text
+
+bg-opacity
+
+text-opacity
+
+link-dark - for anchor tag
+
+opacity-50 - for entire object
+
+-------------------------------
+
+STACK
+
+hstack - stacks componnents horizontally
+
+vstack - 
+
+gap - 
+
+-----------------------------------------
+
+BORDER 
+
+border-primary - for color
+
+border-5 - size
+
+rounded-2
+
+rounded-pill - like a pill
+
+rounded-circle
+
+rounded-top
+
+border-start
+
+-------------------------------------------
+
+DISPLAY
+
+d-
+    default is block
+    none
+    flex
+
+--------------------------------------------
+
+SPACING
+
+p-1 - padding
+
+pt
+
+ps - left
+
+pe - right
+
+m-5 - margin
+
+m-auto
+
+p-auto
+
+------------------------------------------
+
+FLEXBOX 
+
+d-flex 
+
+justify-content-center
+                start
+
+align-items-center
+
+flex-wrap
+
+flex-column
+
+align-self-center
+
+flex-grow-1
+
+flex-shrink
+
