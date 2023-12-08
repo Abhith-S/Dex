@@ -4,8 +4,6 @@
 
 [Youtube Video - Cosmos Explained](https://www.youtube.com/watch?v=jj299iVoKwc)
 
-[Youtube Video - Intro to the Cosmos SDK](https://www.youtube.com/watch?v=HKQ_f2gDyec)
-
 [Youtube Video - What Is Cosmos SDK and How to Use It to Customize Your Chain](https://www.youtube.com/watch?v=otsycTUcxZ4)
 
 [Tendermint Whitepaper](https://tendermint.com/static/docs/tendermint.pdf)
