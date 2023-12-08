@@ -2,7 +2,7 @@
 
 [Cosmos Network Intro Video](https://vimeo.com/183530279)
 
-[Youtube Video - Cosmos Explained]([https://www.youtube.com/watch?v=VCLbS1Oks8A](https://www.youtube.com/watch?v=jj299iVoKwc))
+[Youtube Video - Cosmos Explained](https://www.youtube.com/watch?v=VCLbS1Oks8A](https://www.youtube.com/watch?v=jj299iVoKwc)
 
 [Youtube Video - Intro to the Cosmos SDK](https://www.youtube.com/watch?v=HKQ_f2gDyec)
 
