@@ -1,12 +1,18 @@
-# Resources used to learn about Cosmos
+# Resources used to learn about Cosmos and Cosmos SDK
 
 [Cosmos Network Intro Video](https://vimeo.com/183530279)
 
-[Youtube Video - Cosmos SDK + EVM](https://www.youtube.com/watch?v=VCLbS1Oks8A)
-
-[Youtube Video - Intro to the Cosmos SDK](https://www.youtube.com/watch?v=HKQ_f2gDyec)
+[Youtube Video - Cosmos Explained](https://www.youtube.com/watch?v=jj299iVoKwc)
 
 [Youtube Video - What Is Cosmos SDK and How to Use It to Customize Your Chain](https://www.youtube.com/watch?v=otsycTUcxZ4)
+
+[Youtube Video - Tendermint Core EXPLAINED (Algorithm & History)](https://www.youtube.com/watch?v=kTczTT9DlP8)
+
+[Youtube Video - Tendermint - How the consensus mechanism works](https://www.youtube.com/watch?v=AFiLxS7f1Lo)
+
+[Youtube Video - Alternatives to Proof-of-Work with Tendermint's Jae Kwon ](https://www.youtube.com/watch?v=HMwx70pcVtQ)
+
+[Youtube Video - Introduction to Tendermint](https://www.youtube.com/watch?v=fNI2TPI5y0Q)
 
 [Tendermint Whitepaper](https://tendermint.com/static/docs/tendermint.pdf)
 
