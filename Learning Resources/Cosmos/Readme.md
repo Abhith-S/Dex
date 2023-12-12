@@ -18,6 +18,10 @@
 
 [Youtube Video - Cosmos Explained](https://www.youtube.com/watch?v=jj299iVoKwc)
 
+[Youtube Video - Jae Kwon -Cosmos Internet of Blockchains](https://www.youtube.com/watch?v=5QPyMfQBhOs)
+
+[Youtube Video - Cosmos Explained](https://www.youtube.com/watch?v=LApEkXJR_0M)
+
 [Youtube Video - What Is Cosmos SDK and How to Use It to Customize Your Chain](https://www.youtube.com/watch?v=otsycTUcxZ4)
 
 [Youtube Video - Cosmos IBC simply explained](https://www.youtube.com/watch?v=G0KpgQSAUAM&list=PLatdU75AYX9Vq74otIZ1kn06H-gi2mTrX&index=34)
