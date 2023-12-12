@@ -1,10 +1,10 @@
 # Resources used to learn about Cosmos and Cosmos SDK
 
+[Youtube Video - Alternatives to Proof-of-Work with Tendermint's Jae Kwon ](https://www.youtube.com/watch?v=HMwx70pcVtQ)
+
 [Youtube Video - Tendermint Core EXPLAINED (Algorithm & History)](https://www.youtube.com/watch?v=kTczTT9DlP8)
 
 [Youtube Video - Tendermint - How the consensus mechanism works](https://www.youtube.com/watch?v=AFiLxS7f1Lo)
-
-[Youtube Video - Alternatives to Proof-of-Work with Tendermint's Jae Kwon ](https://www.youtube.com/watch?v=HMwx70pcVtQ)
 
 [Youtube Video - Introduction to Tendermint](https://www.youtube.com/watch?v=fNI2TPI5y0Q)
 
