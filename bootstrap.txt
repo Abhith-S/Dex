@@ -1,3 +1,9 @@
+https://fastbootstrap.com/components/spinner/
+
+https://webpixels.io/components/dropdowns?p=free
+
+https://ayroui.com/bootstrap-components
+
 Classes :
 
 container - like a div but responsive and with bit of padding.
